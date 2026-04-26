@@ -24,7 +24,7 @@
     <!-- Plugin Versions -->
     <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
     <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
-    <spring.version>6.1.6</spring.version>
+    <spring.version>6.2.16</spring.version>
 
     <!-- Main Class -->
     <main.class>com.trainingmug.App</main.class>
